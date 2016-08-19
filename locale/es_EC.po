@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:product.product.cost_history,purchase_price:"
+msgid "Purchase Price"
+msgstr "Precio de compra"
+
+msgctxt "model:res.group,name:group_cost_history"
+msgid "Nodux - Historial de Costos"
+msgstr ""
